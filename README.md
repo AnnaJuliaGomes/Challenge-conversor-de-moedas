@@ -1,6 +1,6 @@
-🗺️ *Roteiro do Projeto: Conversor de Moedas em Java*
+🗺️ Projeto: Conversor de Moedas em Java*
 ________________________________________________________
- 🎯 Objetivo do Desafio
+ 🎯 Objetivo do Desafio 
 Desenvolver uma aplicação em Java capaz de converter valores entre diferentes moedas, utilizando uma API de câmbio em tempo real. O projeto tem como propósito praticar os seguintes conceitos:
 
 -> Consumo de APIs externas usando HTTP
@@ -14,6 +14,7 @@ Desenvolver uma aplicação em Java capaz de converter valores entre diferentes 
 -> Interação com o usuário por meio do console
 _____________________________________________________________________________ 
  🎯 Definição do Escopo
+ 
  O que o projeto faz?
 → Converte valores entre diferentes moedas usando uma API de câmbio.
 
@@ -26,3 +27,6 @@ Biblioteca de JSON: Gson
 API de câmbio (ex: ExchangeRate-API, OpenExchangeRates, etc.)
 
 Interface: console (ou GUI se for expandir)
+__________________________________________________________________________________
+
+🎯 Desafio da Alura 
