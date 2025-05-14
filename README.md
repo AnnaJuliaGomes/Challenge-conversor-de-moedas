@@ -1,4 +1,5 @@
 🗺️ Projeto: Conversor de Moedas em Java*
+obs: O projeto está na pasta master !!!
 ________________________________________________________
  🎯 Objetivo do Desafio 
 Desenvolver uma aplicação em Java capaz de converter valores entre diferentes moedas, utilizando uma API de câmbio em tempo real. O projeto tem como propósito praticar os seguintes conceitos:
